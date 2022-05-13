@@ -25,7 +25,7 @@ for (x,y,w,h) in face_coordinates:
 
 
 
-
+ma = cv.imread('')
 
 
 #To display the image
